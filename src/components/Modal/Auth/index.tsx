@@ -18,6 +18,7 @@ import OAuthButtons from "./OAuthButtons";
 import ResetPassword from "./ResetPassword";
 import ModalWrapper from "../ModalWrapper";
 
+
 type AuthModalProps = {};
 
 const AuthModal: React.FC<AuthModalProps> = () => {
